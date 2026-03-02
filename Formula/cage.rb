@@ -1,8 +1,8 @@
 class Cage < Formula
   desc "Run coding agents safely in containers on macOS"
   homepage "https://github.com/pacificsky/cage"
-  url "https://github.com/pacificsky/cage/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "88e58f2f3994c8ef8ec267b452a0b0c0eb60e7565767d3a9af35d590f3cbe0d4"
+  url "https://github.com/pacificsky/cage/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "e410589fef92e4269aad1c3ce47d2c84bd72b3c90f2a3c8e2ccd43216d552c1e"
   license "MIT"
 
   depends_on :macos
