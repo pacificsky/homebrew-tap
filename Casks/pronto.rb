@@ -1,6 +1,6 @@
 cask "pronto" do
-  version "0.7.0"
-  sha256 "407fca672a5a5ce9c7902235235e1828e20928d947bd37ea05576445e34b05f8"
+  version "0.8.0"
+  sha256 "356040b7236a9500ea8846d917ad443ef59f1b197038448d24d001eab9690c78"
 
   url "https://github.com/pacificsky/pronto/releases/download/v#{version}/Pronto-v#{version}.zip"
   name "Pronto"
