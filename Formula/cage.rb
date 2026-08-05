@@ -1,8 +1,8 @@
 class Cage < Formula
   desc "Run coding agents safely in containers"
   homepage "https://github.com/pacificsky/cage"
-  url "https://github.com/pacificsky/cage/archive/refs/tags/v0.9.0.tar.gz"
-  sha256 "c6a3d4b2bfdd58226ec68c5cb21f77ba5e5ecf912253a9dfe518aea7384bc45e"
+  url "https://github.com/pacificsky/cage/archive/refs/tags/v0.10.0.tar.gz"
+  sha256 "166e9ce79f8ac4cadf99ab8845a4ab932a31e5709fcac7391a74ea69a8a7e8ac"
   license "MIT"
 
   def install
